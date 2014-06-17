@@ -78,10 +78,10 @@ Now browse to the app at `http://localhost:8000/app/index.html`.
       index-async.html  --> just like index.html, but loads js files asynchronously
       js/               --> javascript files
         app.js          --> application
-        controllers.js  --> application controllers
-        directives.js   --> application directives
-        filters.js      --> custom angular filters
-        services.js     --> custom angular services
+        controllers/  --> application controllers
+        directives/   --> application directives
+        filters/      --> custom angular filters
+        services/     --> custom angular services
       partials/             --> angular view partials (partial html templates)
         partial1.html
         partial2.html
